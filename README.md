@@ -1,9 +1,9 @@
 # hello-world
-Just another repositoly
+## Just another repositoly
 
 Hello World!
 Hello World!
+Hello
 Hello World!
-Hello World!
-Hello World!
+Hello World!  
 test
